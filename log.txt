@@ -1,0 +1,103 @@
+commit 0fc2f36be759140777d5de2e75ce7106ef0fb684
+Merge: 932f130 73853ef
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:34:33 2019 +0200
+
+    Fusione ramo Home
+
+commit 932f130f3fe051c9121de742d48a114d313ea83d
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:28:08 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..a099bc9 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:blue;}
+\ No newline at end of file
+
+commit 73853efd47da179369f17e350ca817e1b2d3c577
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:24:25 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 25b09d9e55de713a7e338d180c90185cd30ddcd4
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:22:04 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/dabo.jpg b/img/dabo.jpg
+new file mode 100644
+index 0000000..0f94106
+Binary files /dev/null and b/img/dabo.jpg differ
+
+commit dacb6e1e0c5036e49132bdd559ca025bec55bb37
+Merge: 75069af 5e48db4
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:16:58 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 5e48db413c9da25df40f6bbb15d200b99784320b
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:15:31 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit b4b98897b27d0b6c50ac4c9ab97fa6398f0ebdf4
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:14:33 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 47567926ebfb142dc2919e8aa53fec8543032bc5
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:12:52 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/Simeone.jpg b/img/Simeone.jpg
+new file mode 100644
+index 0000000..8faa41b
+Binary files /dev/null and b/img/Simeone.jpg differ
+
+commit 75069afc2facc14163bb8f1e3f821c9747888554
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:09:50 2019 +0200
+
+    Creata pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 5f39bb92346e39068bb05401446038b7760ec7b7
+Author: xMrPicchia <studente.picchianti.lorenzo@gmail.com>
+Date:   Sat Apr 13 11:05:08 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
